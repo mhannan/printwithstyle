@@ -1,0 +1,17 @@
+[12-Aug-2013 06:27:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 148
+[12-Aug-2013 06:27:36] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234
+[12-Aug-2013 06:29:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 148
+[12-Aug-2013 06:29:48] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234
+[12-Aug-2013 06:30:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 148
+[12-Aug-2013 06:30:59] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234
+[12-Aug-2013 06:31:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 148
+[12-Aug-2013 06:31:06] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234
+[12-Aug-2013 06:34:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 148
+[12-Aug-2013 06:34:21] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234
+[12-Aug-2013 06:34:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 148
+[12-Aug-2013 06:34:21] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234
+[12-Aug-2013 06:34:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 148
+[12-Aug-2013 06:34:21] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234
+[12-Aug-2013 06:36:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 148
+[12-Aug-2013 06:36:21] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234
+[12-Aug-2013 06:37:08] PHP Fatal error:  Call to undefined function  getcountries_selectlist() in /home/wedprint/public_html/invitation_card/admin/blogsection/comments_section.php on line 234

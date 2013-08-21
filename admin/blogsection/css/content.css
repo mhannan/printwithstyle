@@ -1,0 +1,27 @@
+/* 
+    Document   : content.css
+    Created on : May 25, 2012, 1:41:53 PM
+    Author     : Hannan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+html {
+    font-family: Arial;
+    font-size: 12px; color:#222;
+}
+
+body {
+    font-family: Arial;
+    font-size: 12px; color:#222;
+}
+
+img{ border:none;}
+
+a{ color: #2B6FB6; text-decoration: underline;}
+

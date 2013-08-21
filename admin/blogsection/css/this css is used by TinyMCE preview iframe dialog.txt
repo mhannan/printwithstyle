@@ -1,0 +1,3 @@
+This 'content.css' file is used by the TINY-MCE editor to display preview of the contents typed in the box.
+
+The preview box used iframe that loads the CSS from this location so to override that we need to do it something like this

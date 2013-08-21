@@ -1,0 +1,12 @@
+[12-Aug-2013 05:36:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (1) in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 52
+[12-Aug-2013 05:36:50] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 53
+[12-Aug-2013 05:38:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (1) in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 52
+[12-Aug-2013 05:38:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 53
+[12-Aug-2013 05:42:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (1) in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 52
+[12-Aug-2013 05:42:21] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 53
+[12-Aug-2013 05:58:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (1) in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 52
+[12-Aug-2013 05:58:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 53
+[12-Aug-2013 05:59:20] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (1) in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 52
+[12-Aug-2013 05:59:20] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 53
+[12-Aug-2013 06:00:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'DB_SERVER' (1) in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 52
+[12-Aug-2013 06:00:39] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/wedprint/public_html/invitation_card/admin/config/conf.php on line 53
